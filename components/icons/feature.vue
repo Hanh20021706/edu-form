@@ -1,0 +1,39 @@
+<template>
+  <div>
+    <svg
+      width="122"
+      height="26"
+      viewBox="0 0 122 26"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <line
+        opacity="0.66"
+        x1="0.5"
+        y1="13"
+        x2="49.5"
+        y2="13"
+        stroke="#F0A33C"
+        stroke-width="2"
+      />
+      <line
+        opacity="0.66"
+        x1="72.5"
+        y1="13"
+        x2="121.5"
+        y2="13"
+        stroke="#F0A33C"
+        stroke-width="2"
+      />
+      <circle
+        opacity="0.66"
+        cx="61.5"
+        cy="13"
+        r="12"
+        stroke="#F0A33C"
+        stroke-width="2"
+      />
+      <circle cx="61.5" cy="13" r="6" fill="#E99F39" />
+    </svg>
+  </div>
+</template>
