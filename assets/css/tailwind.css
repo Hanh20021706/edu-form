@@ -20,4 +20,10 @@ body {
   .button-secondary {
     @apply border-secondary border-[2px] rounded-full text-secondary;
   }
+  .mb-section {
+    @apply mb-[116px];
+  }
+  .mb-section-mb {
+    @apply mb-[36px];
+  }
 }

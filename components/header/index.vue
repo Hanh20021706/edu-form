@@ -73,7 +73,7 @@
         <div class="col-span-4 flex justify-between">
           <div class="w-full">
             <ul class="flex gap-3 items-center justify-between">
-              <li>
+              <li class="hidden xl:block">
                 <nuxt-link
                   to="/"
                   class="flex items-center gap-[8px] text-black"

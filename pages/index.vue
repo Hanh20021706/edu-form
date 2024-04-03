@@ -2,6 +2,7 @@
   <div>
     <Header />
     <Banner />
+    <Feature />
   </div>
 </template>
 

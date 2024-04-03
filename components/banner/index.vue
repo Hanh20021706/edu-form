@@ -1,6 +1,6 @@
 <template>
-  <div class="container mt-[22px]">
-    <div class="banner p-[12px] md:p-[88px]">
+  <div class="container mt-[22px] mb-section-mb md:mt-[64px] md:mb-section">
+    <div class="banner p-[22px] md:p-[88px]">
       <div
         class="flex flex-col-reverse md:grid md:grid-cols-12 md:items-center"
       >
