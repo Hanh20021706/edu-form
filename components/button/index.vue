@@ -6,6 +6,7 @@
         <slot />
       </div>
       {{ title }}
+      <slot />
       <div v-if="iconRight">
         <!-- Sử dụng slot để chèn nội dung của icon -->
         <slot />

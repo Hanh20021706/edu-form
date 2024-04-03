@@ -7,5 +7,13 @@
   },
   "user": {
     "login": "Đăng nhập"
+  },
+  "banner": {
+    "title": "Nền tảng khảo sát thu thập ý kiến",
+    "desc": "Nền tảng khảo sát và thu ý kiến người dân là công cụ độc lập để tổng hợp đánh giá về vấn đề xã hội và kinh tế. Cơ quan nhà nước sử dụng nền tảng này để đo lường hài lòng về dịch vụ công và thu ý kiến về chính sách quản lý. Các bảng khảo sát và câu hỏi được cá nhân hóa, tiếp cận từng dịch vụ và người dân để thu thập thông tin chi tiết và chính xác.",
+    "create": "Tạo khảo sát ngay"
+  },
+  "feature": {
+    "title": "Features of VNForm"
   }
 }

@@ -7,5 +7,13 @@
   },
   "user": {
     "login": "Login"
+  },
+  "banner": {
+    "title": "Survey platform collects opinions",
+    "desc": "The survey and public opinion platform is an independent tool to synthesize assessments on social and economic issues. State agencies use this platform to measure satisfaction with public services and collect opinions on management policies. Surveys and questionnaires are personalized, reaching out to each service and citizen to gather detailed and accurate information.",
+    "create": "Create a survey now"
+  },
+  "feature": {
+    "title": ""
   }
 }
