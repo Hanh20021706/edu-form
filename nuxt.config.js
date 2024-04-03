@@ -1,5 +1,10 @@
+import { resolve } from "path";
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  alias: {
+    images: resolve(__dirname, "./assets/images"),
+  },
   head: {
     title: "edu-form",
     htmlAttrs: {
@@ -27,12 +32,12 @@ export default {
   buildModules: ["@nuxtjs/vuetify"],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxtjs/i18n", "@nuxtjs/tailwindcss"],
+  modules: ["@nuxtjs/i18n", "@nuxtjs/tailwindcss", "@nuxtjs/google-fonts"],
   i18n: {
     locales: ["en", "vi"],
-    defaultLocale: "en",
+    defaultLocale: "vi",
     vueI18n: {
-      fallbackLocale: "en",
+      fallbackLocale: "vi",
       messages: {
         en: require("./locales/en.json"),
         vi: require("./locales/vi.json"),

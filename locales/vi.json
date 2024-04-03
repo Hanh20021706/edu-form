@@ -1,4 +1,11 @@
 {
-  "welcome": "Chào mừng!",
-  "hello": "Xin chào, thế giới!"
+  "home": {
+    "guide": "Hướng dẫn",
+    "vi": "Vietnamese",
+    "en": "English",
+    "versionTest": "Phiên bản thử nghiệm"
+  },
+  "user": {
+    "login": "Đăng nhập"
+  }
 }

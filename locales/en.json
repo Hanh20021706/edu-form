@@ -1,4 +1,11 @@
 {
-  "welcome": "Welcome!",
-  "hello": "Hello, world!"
+  "home": {
+    "guide": "Guide",
+    "vi": "Vietnamese",
+    "en": "English",
+    "versionTest": "Version test"
+  },
+  "user": {
+    "login": "Login"
+  }
 }

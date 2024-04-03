@@ -1,10 +1,6 @@
 <template>
-  <div class="">
-    <h2 class="text-primary">{{ $t("welcome") }}</h2>
-    <select v-model="selectedLanguage" @change="changeLanguage">
-      <option value="en">English</option>
-      <option value="vi">Vietnamese</option>
-    </select>
+  <div>
+    <Header />
   </div>
 </template>
 
