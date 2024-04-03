@@ -3,6 +3,8 @@
     <Header />
     <Banner />
     <Feature />
+    <Slider />
+    <Tabs />
   </div>
 </template>
 

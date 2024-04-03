@@ -1,5 +1,5 @@
 <template>
-  <div class="relative">
+  <div class="relative md:mb-section mb-section-mb">
     <div class="absolute w-[200px] h-[200px] left-0 bottom-[100px]">
       <img src="~images/feature/sub.png" alt="" />
     </div>
