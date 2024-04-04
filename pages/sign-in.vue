@@ -18,9 +18,11 @@
           class="p-[20px] items-center justify-center flex flex-col h-full gap-[24px] max-w-[120px] z-10"
         >
           <img src="~images/logo.png" alt="" class="max-w-[250px]" />
-          <h2 class="text-[22px] md:text-[32px] font-bold">Đăng nhập</h2>
+          <h2 class="text-[22px] md:text-[32px] font-bold">
+            {{ $t("user.login") }}
+          </h2>
           <nuxt-link to="/" class="button-primary w-full text-center py-2">
-            Đăng nhập tài khoản
+            {{ $t("user.logonAccount") }}
           </nuxt-link>
           <div
             class="text-[16px] font-light item-content relative w-full text-center"
@@ -28,20 +30,20 @@
             <span
               class="w-[150px] h-[1px] text-red-800 bg-gray3 absolute left-0 bottom-[50%]"
             ></span>
-            Hoặc
+            {{ $t("user.and") }}
             <span
               class="w-[150px] h-[1px] text-red-800 bg-gray3 absolute right-0 bottom-[50%]"
             ></span>
           </div>
           <div
-            class="flex max-h-[46px] items-center gap-2 button-secondary justify-center w-full"
+            class="flex max-h-[46px] items-center gap-2 button-secondary py-2 justify-center w-full"
           >
-            <button class="">Đăng nhập bằng</button>
+            <button class="">{{ $t("user.loginWidth") }}</button>
             <IconsLogoOne />
           </div>
 
           <nuxt-link to="/" class="text-blueLight w-full text-left">
-            Đăng nhập với tài khoản nội bộ
+            {{ $t("user.loginLocal") }}
           </nuxt-link>
         </div>
       </div>

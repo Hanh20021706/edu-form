@@ -6,7 +6,11 @@
     "versionTest": "Phiên bản thử nghiệm"
   },
   "user": {
-    "login": "Đăng nhập"
+    "login": "Đăng nhập",
+    "logonAccount": "Đăng nhập tài khoản",
+    "and": "Hoặc",
+    "loginWidth": "Đăng nhập bằng",
+    "loginLocal": "Đăng nhập với tài khoản nội bộ"
   },
   "banner": {
     "title": "Nền tảng khảo sát thu thập ý kiến",

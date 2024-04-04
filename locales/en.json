@@ -6,7 +6,11 @@
     "versionTest": "Version test"
   },
   "user": {
-    "login": "Login"
+    "login": "Login",
+    "logonAccount": "Log in to your account",
+    "and": "And",
+    "loginWidth": "Login width",
+    "loginLocal": "Log in with your local account"
   },
   "banner": {
     "title": "Survey platform collects opinions",
