@@ -7,6 +7,7 @@
     <Tabs />
     <SocialMedia />
     <LinkContent />
+    <Footer />
   </div>
 </template>
 
