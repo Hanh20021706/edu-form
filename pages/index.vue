@@ -5,6 +5,8 @@
     <Feature />
     <Slider />
     <Tabs />
+    <SocialMedia />
+    <LinkContent />
   </div>
 </template>
 
