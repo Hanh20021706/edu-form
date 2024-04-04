@@ -88,7 +88,7 @@
               </li>
               <li>
                 <nuxt-link
-                  to="/"
+                  to="/sign-in"
                   class="flex items-center gap-[8px] button-secondary px-[12px] py-[4px]"
                 >
                   <IconsUser />

@@ -1,8 +1,6 @@
 <template>
   <div>
-    this is layout sign in
     <Nuxt />
-    <Footer />
   </div>
 </template>
 
