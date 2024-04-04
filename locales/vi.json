@@ -1,0 +1,40 @@
+{
+  "home": {
+    "guide": "Hướng dẫn",
+    "vi": "Vietnamese",
+    "en": "English",
+    "versionTest": "Phiên bản thử nghiệm"
+  },
+  "user": {
+    "login": "Đăng nhập"
+  },
+  "banner": {
+    "title": "Nền tảng khảo sát thu thập ý kiến",
+    "desc": "Nền tảng khảo sát và thu ý kiến người dân là công cụ độc lập để tổng hợp đánh giá về vấn đề xã hội và kinh tế. Cơ quan nhà nước sử dụng nền tảng này để đo lường hài lòng về dịch vụ công và thu ý kiến về chính sách quản lý. Các bảng khảo sát và câu hỏi được cá nhân hóa, tiếp cận từng dịch vụ và người dân để thu thập thông tin chi tiết và chính xác.",
+    "create": "Tạo khảo sát ngay"
+  },
+  "feature": {
+    "title": "Tính năng của VNForm"
+  },
+  "slider": {
+    "title": "Các bước tạo biểu mẫu khảo sát"
+  },
+  "tabs": {
+    "title": "Tại sao lại chọn VNForm"
+  },
+  "socialMedia": {
+    "title": "Khách hàng của chúng tôi"
+  },
+  "linkContact": {
+    "title": "Bắt Đầu Ngay: Tạo Biểu Mẫu Khảo Sát của Bạn!",
+    "desc": "Hãy bắt đầu ngay hôm nay bằng cách tạo biểu mẫu khảo sát của bạn! Thuận tiện, linh hoạt và hoàn toàn tùy chỉnh, trang web của chúng tôi sẽ giúp bạn nhanh chóng thu thập ý kiến quan trọng từ đối tượng của mình.",
+    "button": "Bấm để tạo khảo sát"
+  },
+  "footer": {
+    "headquarters": "Trụ sở chính",
+    "address": " Tầng 21, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Yên Hòa, Cầu Giấy, Hà Nội",
+    "email": "Emal",
+    "addressEmail": "vnform@mic.gov.vn",
+    "desc": "Ghi rõ nguồn Cục Chuyển đổi số quốc gia khi bạn phát hành lại thông tin từ Website này."
+  }
+}
