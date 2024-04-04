@@ -4,7 +4,7 @@
       <img src="~images/tab/subtract.png" alt="" />
     </div>
     <div class="container md:mb-section mb-section-mb">
-      <TitleSection> Tại sao lại chọn VNForm </TitleSection>
+      <TitleSection> {{ $t("tabs.title") }} </TitleSection>
       <div
         class="flex flex-col-reverse gap-[22px] md:grid md:grid-cols-12 md:items-center"
       >

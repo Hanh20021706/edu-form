@@ -14,6 +14,27 @@
     "create": "Create a survey now"
   },
   "feature": {
-    "title": "Tính năng của VNForm"
+    "title": "Features of VNForm"
+  },
+  "slider": {
+    "title": "Steps to create a survey form"
+  },
+  "tabs": {
+    "title": "Why choose VNForm"
+  },
+  "socialMedia": {
+    "title": "Our customer"
+  },
+  "linkContact": {
+    "title": "Get Started Now: Create Your Survey Form!",
+    "desc": "Get started today by creating your survey form! Convenient, flexible and fully customizable, our website will help you quickly collect important opinions from your audience.",
+    "button": "Click to create survey"
+  },
+  "footer": {
+    "headquarters": "Headquarters",
+    "address": " Tầng 21, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Yên Hòa, Cầu Giấy, Hà Nội",
+    "email": "emal",
+    "addressEmail": "vnform@mic.gov.vn",
+    "desc": "Specify the source of the National Digital Transformation Agency when you republish information from this Website."
   }
 }

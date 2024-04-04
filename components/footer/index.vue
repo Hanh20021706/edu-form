@@ -21,17 +21,15 @@
     </div>
     <div class="px-[20px]">
       <p class="font-normal text-blackLight">
-        <span class="font-bold">Trụ sở chính: </span>
-        Tầng 21, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Yên Hòa,
-        Cầu Giấy, Hà Nội.
+        <span class="font-bold">{{ $t("footer.headquarters") }}: </span>
+        {{ $t("footer.address") }}
       </p>
       <p class="mb-[16px] text-blackLight">
-        <span class="font-bold">Email: </span>
-        vnform@mic.gov.vn
+        <span class="font-bold">{{ $t("footer.email") }}: </span>
+        {{ $t("footer.addressEmail") }}
       </p>
       <p class="text-blackLight">
-        Ghi rõ nguồn Cục Chuyển đổi số quốc gia khi bạn phát hành lại thông tin
-        từ Website này.
+        {{ $t("footer.desc") }}
       </p>
     </div>
   </div>

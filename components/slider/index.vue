@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container md:mb-section mb-section-mb">
-      <TitleSection> Các bước tạo biểu mẫu khảo sát </TitleSection>
+      <TitleSection> {{ $t("slider.title") }} </TitleSection>
       <v-carousel>
         <v-carousel-item v-for="(item, i) in data" :key="i">
           <div class="flex items-center px-[32px] md:flex-row flex-col">

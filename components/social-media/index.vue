@@ -1,6 +1,8 @@
 <template>
   <div class="container mb-section-mb md:mb-section">
-    <TitleSection title="Khách hàng của chúng tôi" />
+    <TitleSection>
+      {{ $t("socialMedia.title") }}
+    </TitleSection>
     <div class="flex py-[24px] justify-between items-center flex-wrap">
       <div class="" v-for="item in data" :key="item">
         <img :src="item.image" alt="" class="max-w-[50px]" />
