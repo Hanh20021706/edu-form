@@ -46,7 +46,7 @@
                 <img
                   :src="item.image"
                   alt=""
-                  class="max-w-[300px] md:max-w-[500px]"
+                  class="max-w-[300px] max-h-[200px] md:max-w-[500px] md:max-h-[350px]"
                 />
               </div>
             </v-tab-item>
